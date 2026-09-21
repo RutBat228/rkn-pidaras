@@ -164,11 +164,13 @@
                 "vkusvill",
                 "vseinstrumenti",
                 "vtb",
+                "vtb.ru",
                 "wildberries",
                 "wink",
                 "www.vk.com",
                 "yandex",
-                "yoomoney"
+                "yoomoney",
+                "втб"
             ],
             "domain_regex": [
                 "^.*\\.(yandex|vk|mail|ozon|avito)\\.[a-z]{2,4}$",
